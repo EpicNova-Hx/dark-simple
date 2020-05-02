@@ -1,6 +1,6 @@
 #Encode by Anbia Nuansyah
 #Apa Kau mau recode ?
-IyEvdXNyL2Jpbi9weXRob24y
+'IyEvdXNyL2Jpbi9weXRob24y
 I2NvZGluZz11dGYtOA
 
 
@@ -484,4 +484,4 @@ ICAgICAgICAgICAgcHJpbnQgIiIiXG5ceDFiWzE7OTFtWyFdIFx4MWJbMTs5Mm1LYW11IEJlbHVtIE1l
 ICAgICAgICAgICAgc3VwZXIoKQ
 
 aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzo
-CWxvZ2luKCk
+CWxvZ2luKCk'
