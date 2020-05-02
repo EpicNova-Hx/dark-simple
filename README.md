@@ -13,4 +13,4 @@
 </ul>
 <br />
 <br />
-<img src="https://github.com/MrDebo/New-Elite/blob/master/Screenshot_2020-03-07-15-10-58-762_com.termux-picsay.png" />
+<img src="https://github.com/SansBae/dark-simple/blob/master/Screenshot_2020-05-02-22-42-25-55%5B1%5D.png" />
